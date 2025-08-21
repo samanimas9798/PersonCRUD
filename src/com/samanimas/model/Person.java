@@ -1,6 +1,6 @@
-package com.uplift.model;
+package com.samanimas.model;
 
-import com.uplift.enumeration.Gender;
+import com.samanimas.enumeration.Gender;
 import java.time.LocalDate;
 
 public class Person {

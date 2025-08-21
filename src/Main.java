@@ -1,5 +1,5 @@
-import com.uplift.enumeration.Gender;
-import com.uplift.model.Person;
+import com.samanimas.enumeration.Gender;
+import com.samanimas.model.Person;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;

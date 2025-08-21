@@ -1,4 +1,4 @@
-package com.uplift.enumeration;
+package com.samanimas.enumeration;
 
 public enum Gender {
 
